@@ -1,4 +1,4 @@
-<h1 align='center'>Challenge 02 - Rocketseat's Bootcamp</h1>
+<h1 align='center'>Challenge 03 - Rocketseat's Bootcamp</h1>
 <h2 align='center'>React Concepts</h2>
 
 <p align='center'>
